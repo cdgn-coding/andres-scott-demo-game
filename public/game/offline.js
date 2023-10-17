@@ -1,0 +1,31 @@
+﻿{
+	"version": 1697579913,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/skymap.png",
+		"images/skymap2.png",
+		"images/movement_limiter-sheet0.png",
+		"images/solid_platform-sheet0.png",
+		"images/physics_holder-sheet0.png",
+		"images/jtr_platform-sheet0.png",
+		"images/exit-sheet0.png",
+		"images/exit-sheet1.png",
+		"images/mc-sheet0.png",
+		"images/basic_enemy-sheet0.png",
+		"images/mc_arm-sheet0.png",
+		"images/shield_enemy-sheet0.png",
+		"images/shield_enemy-sheet1.png",
+		"images/enemy_bullet-sheet0.png",
+		"images/knife-sheet0.png",
+		"images/mc_bullet-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
